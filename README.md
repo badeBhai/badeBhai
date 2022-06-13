@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [Website Coming soon](Website Coming soon)
+- 👨‍💻 All of my projects are available at [Website Coming soon]
 
-- 📝 I regularly write articles on [Website Coming soon](Website Coming soon)
+- 📝 I regularly write articles on [Website Coming soon]
 
 - 💬 Ask me about **Anything related to development (Web and Mobile)**
 
 - 📫 How to reach me [Prakhar Dubey (@Mail)](mailto:prakhardubey1321@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-- 📄 Know about my experiences [Website Coming soon](Website Coming soon)
+- 📄 Know about my experiences [Website Coming soon]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
