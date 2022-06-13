@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badebhai&label=Profile%20views&color=0e75b6&style=flat" alt="badebhai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badebhai" alt="badebhai" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=badeBhai)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Blockchain & Web3 Development**
 
