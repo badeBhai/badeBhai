@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Anything related to development (Web and Mobile)**
 
-- 📫 How to reach me [Prakhar Dubey](mailto:prakhardubey1321@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 How to reach me [Prakhar Dubey (@Mail)](mailto:prakhardubey1321@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 - 📄 Know about my experiences [Website Coming soon](Website Coming soon)
 
