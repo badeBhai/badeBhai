@@ -7,11 +7,16 @@
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=badeBhai" alt="trophy"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badeBhai&layout=compact&theme=dracula&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badeBhai&layout=compact&theme=dracula&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badeBhai&show_icons=true&theme=dracula&border_radius=20)
+<span align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badeBhai&layout=compact&theme=dracula&border_radius=20" alt="badeBhai"/></span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badebhai&" alt="badebhai" /></p>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badeBhai&show_icons=true&theme=dracula&border_radius=20) -->
+
+<span align="left"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=badeBhai&layout=compact&theme=dracula&border_radius=20](https://github-readme-stats.vercel.app/api?username=badeBhai&show_icons=true&theme=dracula&border_radius=20)" alt="badeBhai"/></span>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badebhai&theme=dracula&border_radius=20" alt="badebhai" /></p>
 
 - 🔭 I’m currently working on **Blockchain & Web3 Development**
 
