@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badebhai&label=Profile%20views&color=0e75b6&style=flat" alt="badebhai" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=badeBhai)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=badeBhai)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=badeBhai" alt="trophy"></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=badeBhai" alt="trophy"></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badeBhai&layout=compact&theme=dracula&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
