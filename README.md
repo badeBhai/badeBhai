@@ -13,7 +13,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badeBhai&show_icons=true&theme=dracula&border_radius=20) -->
 
-<span align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badeBhai&layout=compact&theme=dracula&border_radius=20" alt="badeBhai"/></span>
+<span align="left"><img src="https://github-readme-stats.vercel.app/api?username=badeBhai&show_icons=true&theme=dracula&border_radius=20" alt="badeBhai"/></span>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badebhai&theme=dracula&border_radius=20" alt="badebhai" /></p>
