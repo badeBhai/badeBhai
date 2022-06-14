@@ -37,3 +37,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badeBhai)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badebhai&" alt="badebhai" /></p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=badeBhai&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=badeBhai&repo=convoychat" />
+</a>
